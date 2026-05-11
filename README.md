@@ -2,6 +2,10 @@
 
 Labs for secure software testing in 2025 Spring
 
+## Lab 5
+
+See [README.md](Lab5/README.md)
+
 ## Lab 4
 
 See [README.md](Lab4/READMD.md)
